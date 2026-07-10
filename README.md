@@ -32,9 +32,9 @@ mendemonstrasikan integrasi komponen native (Kamera, Galeri, GPS) dan asinkronus
 - Expo Snack: https://snack.expo.dev/@jepin/501b47
 
 ## Screenshot
-WhatsApp Image 2026-07-10 at 22.23.25 (1).jpeg
-WhatsApp Image 2026-07-10 at 22.23.25 (2).jpeg
-WhatsApp Image 2026-07-10 at 22.23.25.jpeg
+![Layar Edukasi Awal](./WhatsApp%20Image%202026-07-10%20at%2022.23.25.jpeg)
+![Dialog Izin Perangkat](./WhatsApp%20Image%202026-07-10%20at%2022.23.25%20(2).jpeg)
+![Hasil Profil Sukses](./WhatsApp%20Image%202026-07-10%20at%2022.23.25%20(1).jpeg)
 
 ## Author
 Jeviens Paradisa Finie Adena - 243303621213 - Universitas Prima Indonesia
