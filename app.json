@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "native-power-app",
+    "slug": "native-power-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-image.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "NativePower App memerlukan akses galeri untuk memilih dan menyimpan foto profil ke portofolio Anda.",
+          "cameraPermission": "NativePower App memerlukan akses kamera untuk mengambil foto profil secara instan."
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "NativePower App memerlukan akses lokasi saat digunakan untuk menampilkan koordinat check-in serta memberikan informasi cuaca setempat secara akurat."
+        }
+      ]
+    ]
+  }
+}
