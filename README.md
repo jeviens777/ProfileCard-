@@ -33,6 +33,7 @@ mendemonstrasikan integrasi komponen native (Kamera, Galeri, GPS) dan asinkronus
 
 ## Screenshot
 WhatsApp Image 2026-07-10 at 22.23.25 (1).jpeg
+WhatsApp Image 2026-07-10 at 22.23.25 (2).jpeg
 
 ## Author
 Jeviens Paradisa Finie Adena - 243303621213 - Universitas Prima Indonesia
